@@ -1,0 +1,16 @@
+*.3dsx
+*.nds
+.qt*
+*.elf
+*.o
+*.d
+build
+
+#qt creator
+*.creator*
+*.cflags
+*.config
+*.cxxflags
+*.files
+*.includes
+*.tmp
